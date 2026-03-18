@@ -1,5 +1,8 @@
 # 💰 Sistema de Controle Financeiro
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Versão](https://img.shields.io/badge/version-0.1-blue)
+
 Aplicação em Java para gerenciamento de despesas pessoais, com controle de orçamento e análise da saúde financeira.
 
 ---
